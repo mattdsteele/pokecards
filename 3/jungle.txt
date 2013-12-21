@@ -1,0 +1,1225 @@
+Just finished typing all this in from my set.  Hope you find it useful.
+
+-=> Bret Larwick
+Wizards of the Coast's Pokemon Trading Card Game
+The PokeGym  --  1st Edition Jungle Set Card Spoilers - 6/30/99
+
+Notes:
+The most current version of this list will be maintained at
+http://pokegym.thedojo.com/
+
+Energy Requirements and Costs have coded references (rather than the
+symbols printed on the card).
+Energy will be referenced as:  F (Fighting), R (Fire), G (Grass),
+P (Psychic), W (Water), and L (Lighting). Colorless energy costs will
+be designated with a numeral indicating the amount of colorless energy
+required. (e.g.  3WW  indicates a cost of 3 colorless energy and 2
+water energy)
+
+Height and weight have NOT been included, but "Species" refers to the
+Pokemon "type" given under the card picture.
+
+Pokemon descriptions from the bottom of the card have NOT been
+included, but Level and Pokemon Number from this same area have been
+listed. (Do not confuse WotC Card Number with Pokemon Number.)
+
+Attack Move details are shown with the following nomenclature:
+[Energy Requirement]  Attack Name  (damage)  Special Text
+
+Name:        Clefable 
+Type:        Stage 1 -- from Clefairy
+Card #:      card 1 of 64
+Rarity:      Rare - Holo
+Color:       Colorless
+HP:          70 HP
+Weakness:    F       
+Resistance:  P -30  
+Retreat:     2
+Pokemon #:   36
+Species:     Fairy
+Level:       34
+Attack:      [1]  Metronome
+             Choose 1 of the Defending Pokemon's attacks.  Metronome
+             copies that attack except for its Energy costs and
+             anything else required in order to use that attack, such
+             as discarding Energy cards. (No matter what type the
+             Defending Pokemon is, Clefable's type is still Colorless.)
+Attack:      [2]  Minimize
+             All damage done by attacks to Clefable during your
+             opponent's next turn is reduce by 20 (after applying
+             Weakness and Resistance).
+
+Name:        Electrode 
+Type:        Stage 1 -- from Voltorb
+Card #:      card 2 of 64
+Rarity:      Rare - Holo
+Color:       Lightning
+HP:          90 HP
+Weakness:    F       
+Resistance:  none  
+Retreat:     1
+Pokemon #:   101
+Species:     Ball
+Level:       42
+Attack:      [2]  Tackle  (20)
+Attack:      [LLL]  Chain Lightning  (20)
+             If the Defending Pokemon isn't Colorless, this attack does
+             10 damage to each Benched Pokemon of the same type as the
+             Defending Pokemon (including your own).
+
+Name:        Flareon
+Type:        Stage 1 -- from Eevee
+Card #:      card 3 of 64
+Rarity:      Rare - Holo
+Color:       Fire
+HP:          70 HP
+Weakness:    W       
+Resistance:  none  
+Retreat:     1
+Pokemon #:   136
+Species:     Flame
+Level:       28
+Attack:      [2]  Quick Attack  (10+)
+             Flip a coin.  If heads, this attack does 10 damage plus 20
+             more damage; if tails, this attack does 10 damage.
+Attack:      [2RR]  Flamethrower  (60)
+             Discard 1 Fire Energy card attached to Flareon in order to
+             use this attack.
+
+Name:        Jolteon 
+Type:        Stage 1 -- from Eevee
+Card #:      card 4 of 64
+Rarity:      Rare - Holo
+Color:       Lightning
+HP:          70 HP
+Weakness:    F       
+Resistance:  none   
+Retreat:     1
+Pokemon #:   135
+Species:     Lightning
+Level:       29
+Attack:      [2]  Quick Attack  (10+)
+             Flip a coin.  If heads, this attack does 10 damage plus 20
+             more damage; if tails, this attack does 10 damage.
+Attack:      [1LL]  Pin Missile  (20x)
+             Flip 4 coins.  This attack does 20 damage times the number
+             of heads.
+
+Name:        Kangaskhan 
+Type:        Basic Pokemon
+Card #:      card 5 of 64
+Rarity:      Rare - Holo
+Color:       Colorless
+HP:          90 HP
+Weakness:    F       
+Resistance:  P -30   
+Retreat:     3
+Pokemon #:   115
+Species:     Parent
+Level:       40
+Attack:      [1]  Fetch
+             Draw a card.
+Attack:      [4]  Comet Punch  (20x)
+             Flip 4 coins.  This attack does 20 damage times the number
+             of heads.
+
+Name:        Mr. Mime
+Type:        Basic Pokemon
+Card #:      card 6 of 64
+Rarity:      Rare - Holo
+Color:       Psychic
+HP:          40 HP
+Weakness:    P       
+Resistance:  none   
+Retreat:     1
+Pokemon #:   122
+Species:     Barrier
+Level:       28
+Power:       "Invisible Wall"
+             Whenever an attack (including your own) does 30 or more
+             damage to Mr. Mime (after applying Weakness and
+             Resistance), prevent that damage.  (Any other effects of
+             attacks still happen.) This power can't be used if Mr.
+             Mime is Asleep, Confused, or Paralyzed.
+Attack:      [1P]  Meditate  (10+)
+             Does 10 damage plus 10 more damage for each damage counter
+             On the Defending Pokemon.
+
+Name:        Nidoqueen 
+Type:        Stage 2 -- from Nidorina
+Card #:      card 7 of 64
+Rarity:      Rare - Holo
+Color:       Grass
+HP:          90 HP
+Weakness:    P      
+Resistance:  none   
+Retreat:     3
+Pokemon #:   31
+Species:     Drill
+Level:       43
+Attack:      [1G]  Boyfriends  (20+)
+             Does 20 damage plus 20 more damage for each Nidoking you
+             have in play.
+Attack:      [2GG]  Mega Punch  (50)
+
+Name:        Pidgeot 
+Type:        Stage 2 -- from Pidgeotto
+Card #:      card 8 of 64
+Rarity:      Rare - Holo
+Color:       Colorless
+HP:          80 HP
+Weakness:    L      
+Resistance:  F -30  
+Retreat:     0
+Pokemon #:   18
+Species:     Bird
+Level:       40
+Attack:      [2]  Wing Attack  (20)
+Attack:      [3]  Hurricane  (30)
+             Unless this attack Knocks Out the Defending Pokemon,
+             return the Defending Pokemon and all cards attached to it
+             to your opponent's hand.
+
+Name:        Pinsir 
+Type:        Basic Pokemon
+Card #:      card 9 of 64
+Rarity:      Rare - Holo
+Color:       Grass
+HP:          60 HP
+Weakness:    R 
+Resistance:  none   
+Retreat:     1
+Pokemon #:   127
+Species:     Stagbeetle
+Level:       24
+Attack:      [GG]  Iron Grip  (20)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Paralyzed.
+Attack:      [2GG]  Guillotine  (50)
+
+Name:        Scyther 
+Type:        Basic Pokemon
+Card #:      card 10 of 64
+Rarity:      Rare - Holo
+Color:       Grass
+HP:          70 HP
+Weakness:    R       
+Resistance:  F -30  
+Retreat:     0
+Pokemon #:   123
+Species:     Mantis
+Level:       25
+Attack:      [G]  Swords Dance
+             During your next turn, Scyther's Slash attack's base
+             damage is 60 instead of 30.
+Attack:      [3]  Slash  (30)
+
+Name:        Snorlax 
+Type:        Basic Pokemon
+Card #:      card 11 of 64
+Rarity:      Rare - Holo
+Color:       Colorless
+HP:          90 HP
+Weakness:    F       
+Resistance:  P -30   
+Retreat:     4
+Pokemon #:   143
+Species:     Sleeping
+Level:       20
+Power:       "Thick Skinned"
+             Snorlax can't become Asleep, Confused, Paralyzed, or
+             Poisoned.  This power can't be used if Snorlax is already
+             Asleep, Confused, or Paralyzed.
+Attack:      [4]  Body Slam  (30)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Paralyzed.
+
+Name:        Vaporeon
+Type:        Stage 1 -- from Eevee
+Card #:      card 12 of 64
+Rarity:      Rare - Holo
+Color:       Water
+HP:          80 HP
+Weakness:    L      
+Resistance:  none   
+Retreat:     1
+Pokemon #:   134
+Species:     Bubble Jet
+Level:       42
+Attack:      [2]  Quick Attack  (10+)
+             Flip a coin.  If heads, this attack does 10 damage plus 20
+             more damage; if tails, this attack does 10 damage.
+Attack:      [1WW]  Water Gun  (30+)
+             Does 30 damage plus 10 more damage for each Water Energy
+             attached to Vaporeon but not used to pay for this attack's
+             Energy cost.  Extra Water Energy after the 2nd doesn't
+             count.
+
+Name:        Venomoth
+Type:        Stage 1 -- from Venonat
+Card #:      card 13 of 64
+Rarity:      Rare - Holo
+Color:       Grass
+HP:          70 HP
+Weakness:    R      
+Resistance:  F -30   
+Retreat:     0
+Pokemon #:   49
+Species:     Poisonmoth
+Level:       28
+Power:       "Shift"
+             Once during your turn (before your attack), you may change
+             the type of Venomoth to the type of any other Pokemon in
+             play other than Colorless.  This power can't be used if
+             Venomoth is Asleep, Confused, or Paralyzed.
+Attack:      [GG]  Venom Powder  (10)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Confused and Poisoned.
+
+Name:        Victreebel 
+Type:        Stage 2 -- from Weepinbell
+Card #:      card 14 of 64
+Rarity:      Rare - Holo
+Color:       Grass
+HP:          80 HP
+Weakness:    R      
+Resistance:  none   
+Retreat:     2
+Pokemon #:   71
+Species:     Flycatcher
+Level:       42
+Attack:      [G]  Lure
+             If your opponent has any Benched Pokemon, choose 1 of them
+             and switch it with his or her Active Pokemon.
+Attack:      [GG]  Acid  (20)
+             Flip a coin.  If heads, the Defending Pokemon can't
+             retreat during your opponent's next turn.
+
+Name:        Vileplume 
+Type:        Stage 2 -- from Gloom
+Card #:      card 15 of 64
+Rarity:      Rare - Holo
+Color:       Grass
+HP:          80 HP
+Weakness:    R     
+Resistance:  none   
+Retreat:     2
+Pokemon #:   45
+Species:     Flower
+Level:       35
+Power:       "Heal"
+             Once during your turn (before your attack), you may flip a
+             coin.  If heads, remove 1 damage counter from 1 of your
+             Pokemon.  This power can't be used if Vileplume is Asleep,
+             Confused, or Paralyzed.
+Attack:      [GGG]  Petal Dance  (40x)
+             Flip 3 coins.  This attack does 40 damage times the number
+             of heads.  Vileplume is now Confused (after doing damage).
+
+Name:        Wigglytuff
+Type:        Stage 1 -- from Jigglypuff
+Card #:      card 16 of 64
+Rarity:      Rare - Holo
+Color:       Colorless
+HP:          80 HP
+Weakness:    F       
+Resistance:  P -30  
+Retreat:     2
+Pokemon #:   40
+Species:     Balloon
+Level:       36
+Attack:      [1]  Lullaby
+             The Defending Pokemon is now Asleep.
+Attack:      [3]  Do the Wave  (10+)
+             Does 10 damage plus 10 more damage for each of your
+             Benched Pokemon.
+
+Name:        Clefable 
+Type:        Stage 1 -- from Clefairy
+Card #:      card 17 of 64
+Rarity:      Rare
+Color:       Colorless
+HP:          70 HP
+Weakness:    F       
+Resistance:  P -30  
+Retreat:     2
+Pokemon #:   36
+Species:     Fairy
+Level:       34
+Attack:      [1]  Metronome
+             Choose 1 of the Defending Pokemon's attacks.  Metronome
+             copies that attack except for its Energy costs and
+             anything else required in order to use that attack, such
+             as discarding Energy cards. (No matter what type the
+             Defending Pokemon is, Clefable's type is still Colorless.)
+Attack:      [2]  Minimize
+             All damage done by attacks to Clefable during your
+             opponent's next turn is reduce by 20 (after applying
+             Weakness and Resistance).
+
+Name:        Electrode 
+Type:        Stage 1 -- from Voltorb
+Card #:      card 18 of 64
+Rarity:      Rare
+Color:       Lightning
+HP:          90 HP
+Weakness:    F       
+Resistance:  none  
+Retreat:     1
+Pokemon #:   101
+Species:     Ball
+Level:       42
+Attack:      [2]  Tackle  (20)
+Attack:      [LLL]  Chain Lightning  (20)
+             If the Defending Pokemon isn't Colorless, this attack does
+             10 damage to each Benched Pokemon of the same type as the
+             Defending Pokemon (including your own).
+
+Name:        Flareon
+Type:        Stage 1 -- from Eevee
+Card #:      card 19 of 64
+Rarity:      Rare
+Color:       Fire
+HP:          70 HP
+Weakness:    W       
+Resistance:  none  
+Retreat:     1
+Pokemon #:   136
+Species:     Flame
+Level:       28
+Attack:      [2]  Quick Attack  (10+)
+             Flip a coin.  If heads, this attack does 10 damage plus 20
+             more damage; if tails, this attack does 10 damage.
+Attack:      [2RR]  Flamethrower  (60)
+             Discard 1 Fire Energy card attached to Flareon in order to
+             use this attack.
+
+Name:        Jolteon 
+Type:        Stage 1 -- from Eevee
+Card #:      card 20 of 64
+Rarity:      Rare
+Color:       Lightning
+HP:          70 HP
+Weakness:    F       
+Resistance:  none   
+Retreat:     1
+Pokemon #:   135
+Species:     Lightning
+Level:       29
+Attack:      [2]  Quick Attack  (10+)
+             Flip a coin.  If heads, this attack does 10 damage plus 20
+             more damage; if tails, this attack does 10 damage.
+Attack:      [1LL]  Pin Missile  (20x)
+             Flip 4 coins.  This attack does 20 damage times the number
+             of heads.
+
+Name:        Kangaskhan 
+Type:        Basic Pokemon
+Card #:      card 21 of 64
+Rarity:      Rare
+Color:       Colorless
+HP:          90 HP
+Weakness:    F       
+Resistance:  P -30   
+Retreat:     3
+Pokemon #:   115
+Species:     Parent
+Level:       40
+Attack:      [1]  Fetch
+             Draw a card.
+Attack:      [4]  Comet Punch  (20x)
+             Flip 4 coins.  This attack does 20 damage times the number
+             of heads.
+
+Name:        Mr. Mime
+Type:        Basic Pokemon
+Card #:      card 22 of 64
+Rarity:      Rare
+Color:       Psychic
+HP:          40 HP
+Weakness:    P       
+Resistance:  none   
+Retreat:     1
+Pokemon #:   122
+Species:     Barrier
+Level:       28
+Power:       "Invisible Wall"
+             Whenever an attack (including your own) does 30 or more
+             damage to Mr. Mime (after applying Weakness and
+             Resistance), prevent that damage.  (Any other effects of
+             attacks still happen.) This power can't be used if Mr.
+             Mime is Asleep, Confused, or Paralyzed.
+Attack:      [1P]  Meditate  (10+)
+             Does 10 damage plus 10 more damage for each damage counter
+             On the Defending Pokemon.
+
+Name:        Nidoqueen 
+Type:        Stage 2 -- from Nidorina
+Card #:      card 23 of 64
+Rarity:      Rare
+Color:       Grass
+HP:          90 HP
+Weakness:    P      
+Resistance:  none   
+Retreat:     3
+Pokemon #:   31
+Species:     Drill
+Level:       43
+Attack:      [1G]  Boyfriends  (20+)
+             Does 20 damage plus 20 more damage for each Nidoking you
+             have in play.
+Attack:      [2GG]  Mega Punch  (50)
+
+Name:        Pidgeot 
+Type:        Stage 2 -- from Pidgeotto
+Card #:      card 24 of 64
+Rarity:      Rare
+Color:       Colorless
+HP:          80 HP
+Weakness:    L      
+Resistance:  F -30  
+Retreat:     0
+Pokemon #:   18
+Species:     Bird
+Level:       40
+Attack:      [2]  Wing Attack  (20)
+Attack:      [3]  Hurricane  (30)
+             Unless this attack Knocks Out the Defending Pokemon,
+             return the Defending Pokemon and all cards attached to it
+             to your opponent's hand.
+
+Name:        Pinsir 
+Type:        Basic Pokemon
+Card #:      card 25 of 64
+Rarity:      Rare
+Color:       Grass
+HP:          60 HP
+Weakness:    R 
+Resistance:  none   
+Retreat:     1
+Pokemon #:   127
+Species:     Stagbeetle
+Level:       24
+Attack:      [GG]  Iron Grip  (20)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Paralyzed.
+Attack:      [2GG]  Guillotine  (50)
+
+Name:        Scyther 
+Type:        Basic Pokemon
+Card #:      card 26 of 64
+Rarity:      Rare
+Color:       Grass
+HP:          70 HP
+Weakness:    R       
+Resistance:  F -30  
+Retreat:     0
+Pokemon #:   123
+Species:     Mantis
+Level:       25
+Attack:      [G]  Swords Dance
+             During your next turn, Scyther's Slash attack's base
+             damage is 60 instead of 30.
+Attack:      [3]  Slash  (30)
+
+Name:        Snorlax 
+Type:        Basic Pokemon
+Card #:      card 27 of 64
+Rarity:      Rare
+Color:       Colorless
+HP:          90 HP
+Weakness:    F       
+Resistance:  P -30   
+Retreat:     4
+Pokemon #:   143
+Species:     Sleeping
+Level:       20
+Power:       "Thick Skinned"
+             Snorlax can't become Asleep, Confused, Paralyzed, or
+             Poisoned.  This power can't be used if Snorlax is already
+             Asleep, Confused, or Paralyzed.
+Attack:      [4]  Body Slam  (30)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Paralyzed.
+
+Name:        Vaporeon
+Type:        Stage 1 -- from Eevee
+Card #:      card 28 of 64
+Rarity:      Rare
+Color:       Water
+HP:          80 HP
+Weakness:    L      
+Resistance:  none   
+Retreat:     1
+Pokemon #:   134
+Species:     Bubble Jet
+Level:       42
+Attack:      [2]  Quick Attack  (10+)
+             Flip a coin.  If heads, this attack does 10 damage plus 20
+             more damage; if tails, this attack does 10 damage.
+Attack:      [1WW]  Water Gun  (30+)
+             Does 30 damage plus 10 more damage for each Water Energy
+             attached to Vaporeon but not used to pay for this attack's
+             Energy cost.  Extra Water Energy after the 2nd doesn't
+             count.
+
+Name:        Venomoth
+Type:        Stage 1 -- from Venonat
+Card #:      card 29 of 64
+Rarity:      Rare
+Color:       Grass
+HP:          70 HP
+Weakness:    R      
+Resistance:  F -30   
+Retreat:     0
+Pokemon #:   49
+Species:     Poisonmoth
+Level:       28
+Power:       "Shift"
+             Once during your turn (before your attack), you may change
+             the type of Venomoth to the type of any other Pokemon in
+             play other than Colorless.  This power can't be used if
+             Venomoth is Asleep, Confused, or Paralyzed.
+Attack:      [GG]  Venom Powder  (10)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Confused and Poisoned.
+
+Name:        Victreebel 
+Type:        Stage 2 -- from Weepinbell
+Card #:      card 30 of 64
+Rarity:      Rare
+Color:       Grass
+HP:          80 HP
+Weakness:    R      
+Resistance:  none   
+Retreat:     2
+Pokemon #:   71
+Species:     Flycatcher
+Level:       42
+Attack:      [G]  Lure
+             If your opponent has any Benched Pokemon, choose 1 of them
+             and switch it with his or her Active Pokemon.
+Attack:      [GG]  Acid  (20)
+             Flip a coin.  If heads, the Defending Pokemon can't
+             retreat during your opponent's next turn.
+
+Name:        Vileplume 
+Type:        Stage 2 -- from Gloom
+Card #:      card 31 of 64
+Rarity:      Rare
+Color:       Grass
+HP:          80 HP
+Weakness:    R     
+Resistance:  none   
+Retreat:     2
+Pokemon #:   45
+Species:     Flower
+Level:       35
+Power:       "Heal"
+             Once during your turn (before your attack), you may flip a
+             coin.  If heads, remove 1 damage counter from 1 of your
+             Pokemon.  This power can't be used if Vileplume is Asleep,
+             Confused, or Paralyzed.
+Attack:      [GGG]  Petal Dance  (40x)
+             Flip 3 coins.  This attack does 40 damage times the number
+             of heads.  Vileplume is now Confused (after doing damage).
+
+Name:        Wigglytuff
+Type:        Stage 1 -- from Jigglypuff
+Card #:      card 32 of 64
+Rarity:      Rare
+Color:       Colorless
+HP:          80 HP
+Weakness:    F       
+Resistance:  P -30  
+Retreat:     2
+Pokemon #:   40
+Species:     Balloon
+Level:       36
+Attack:      [1]  Lullaby
+             The Defending Pokemon is now Asleep.
+Attack:      [3]  Do the Wave  (10+)
+             Does 10 damage plus 10 more damage for each of your
+             Benched Pokemon.
+
+Name:        Butterfree
+Type:        Stage 2 -- from Metapod
+Card #:      card 33 of 64
+Rarity:      Uncommon
+Color:       Grass
+HP:          70 HP
+Weakness:    R      
+Resistance:  F -30  
+Retreat:     0
+Pokemon #:   12
+Species:     Butterfly
+Level:       28
+Attack:      [2]  Whirlwind  (20)
+             If your opponent has any Benched Pokemon, he or she
+             chooses 1 of them and switches it with the Defending
+             Pokemon.  (Do the damage before switching the Pokemon.)
+Attack:      [GGGG]  Mega Drain  (40)
+             Remove a number of damage counters from Butterfree equal
+             to half the damage done to the Defending Pokemon (after
+             applying Weakness and Resistance) (rounded up to the
+             nearest 10).
+
+Name:        Dodrio
+Type:        Stage 1 -- from Doduo
+Card #:      card 34 of 64
+Rarity:      Uncommon
+Color:       Colorless
+HP:          70 HP
+Weakness:    L      
+Resistance:  F -30  
+Retreat:     0
+Pokemon #:   85
+Species:     Triplebird
+Level:       28
+Power:       "Retreat Aid"
+             As long as Dodrio is Benched, pay 1 Energy less to retreat
+             your Active Pokemon.
+Attack:      [3]  Rage  (10+)
+             Does 10 damage plus 10 more damage for each damage counter
+             on Dodrio.
+
+Name:        Exeggutor
+Type:        Stage 1 -- from Exeggcute
+Card #:      card 35 of 64
+Rarity:      Uncommon
+Color:       Grass
+HP:          80 HP
+Weakness:    R      
+Resistance:  none
+Retreat:     3
+Pokemon #:   103
+Species:     Coconut
+Level:       35
+Attack:      [P]  Teleport
+             Switch Exeggutor with 1 of your Benched Pokemon.
+Attack:      [1]  Big Eggsplosion  (20x)
+             Flip a number of coins equal to the number of Energy
+             attached to Exeggutor.  This attack does 20 damage times
+             the number of heads.
+
+Name:        Fearow
+Type:        Stage 1 -- from Spearow
+Card #:      card 36 of 64
+Rarity:      Uncommon
+Color:       Colorless
+HP:          70 HP
+Weakness:    L      
+Resistance:  F -30  
+Retreat:     0
+Pokemon #:   22
+Species:     Beak
+Level:       27
+Attack:      [3]  Agility  (20)
+             Flip a coin.  If heads, during your opponent's next turn,
+             prevent all effects of attacks, including damage, done to
+             Fearow.
+Attack:      [4]  Drill Peck  (40)
+
+Name:        Gloom
+Type:        Stage 1 -- from Oddish
+Card #:      card 37 of 64
+Rarity:      Uncommon
+Color:       Grass
+HP:          60 HP
+Weakness:    R      
+Resistance:  none
+Retreat:     1
+Pokemon #:   44
+Species:     Weed
+Level:       22
+Attack:      [G]  Poisonpowder
+             The Defending Pokemon is now Poisoned.
+Attack:      [GG]  Foul Odor  (20)
+             Both the Defending Pokemon and Gloom are now Confused
+            (after doing damage).
+
+Name:        Lickitung
+Type:        Basic Pokemon
+Card #:      card 38 of 64
+Rarity:      Uncommon
+Color:       Colorless
+HP:          90 HP
+Weakness:    F     
+Resistance:  P -30  
+Retreat:     3
+Pokemon #:   108
+Species:     Licking
+Level:       26
+Attack:      [1]  Toungue Wrap  (10)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Paralyzed.
+Attack:      [2]  Supersonic
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Confused.
+
+Name:        Marowak
+Type:        Stage 1 -- from Cubone
+Card #:      card 39 of 64
+Rarity:      Uncommon
+Color:       Fighting
+HP:          60 HP
+Weakness:    G     
+Resistance:  L -30  
+Retreat:     1
+Pokemon #:   105
+Species:     Bonekeeper
+Level:       26
+Attack:      [FF]  Bonemerang  (30x)
+             Flip 2 coins.  This attack does 30 damage times the number
+             of heads.
+Attack:      [1FF]  Call for Friend
+             Search your deck for a Fighting Basic Pokemon card and put
+             it onto your Bench.  Shuffle your deck afterward. (You
+             can't use this attack if your Bench is full.)
+
+Name:        Nidorina
+Type:        Stage 1 -- from Nidoran (F)
+Card #:      card 40 of 64
+Rarity:      Uncommon
+Color:       Grass
+HP:          70 HP
+Weakness:    P     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   30
+Species:     Poison Pin
+Level:       24
+Attack:      [G]  Supersonic
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Confused.
+Attack:      [2G]  Double Kick  (30x)
+             Flip 2 coins.  This attack does 30 damage times the number
+             of heads.
+
+Name:        Parasect
+Type:        Stage 1 -- from Paras
+Card #:      card 41 of 64
+Rarity:      Uncommon
+Color:       Grass
+HP:          60 HP
+Weakness:    R     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   47
+Species:     Mushroom
+Level:       28
+Attack:      [GG]  Spore
+             The Defending Pokemon is now Asleep.
+Attack:      [3]  Slash  (30)
+
+Name:        Persian
+Type:        Stage 1 -- from Meowth
+Card #:      card 42 of 64
+Rarity:      Uncommon
+Color:       Colorless
+HP:          70 HP
+Weakness:    F     
+Resistance:  P -30 
+Retreat:     0
+Pokemon #:   53
+Species:     Classy Cat
+Level:       25
+Attack:      [2]  Scratch  (20)
+Attack:      [3]  Pounce  (30)
+             If the Defending Pokemon attacks Persian during your
+             opponent's next turn, any damage done by the attack is
+             reduce by 10 (after applying Weakness and Resistance).
+             (Benching either Pokemon ends this effect.)
+
+Name:        Primeape
+Type:        Stage 1 -- from Mankey
+Card #:      card 43 of 64
+Rarity:      Uncommon
+Color:       Fighting
+HP:          70 HP
+Weakness:    P     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   57
+Species:     Pig Monkey
+Level:       35
+Attack:      [FF]  Fury Swipes  (20x)
+             Flip 3 coins.  This attack does 20 damage times the number
+             of heads.
+Attack:      [1FF]  Tantrum  (50)
+             Flip a coin.  If tails, Primeape is now Confused (after
+             doing damage).
+
+Name:        Rapidash
+Type:        Stage 1 -- from Ponyta
+Card #:      card 44 of 64
+Rarity:      Uncommon
+Color:       Fire
+HP:          70 HP
+Weakness:    W     
+Resistance:  none 
+Retreat:     0
+Pokemon #:   78
+Species:     Fire Horse
+Level:       33
+Attack:      [2]  Stomp  (20+)
+             Flip a coin.  If heads, this attack does 20 damage plus 10
+             more damage; if tails, this attack does 20 damage.
+Attack:      [1RR]  Agility  (30)
+             Flip a coin.  If heads, during your opponent's next turn,
+             prevent all effects of attacks, including damage, done to
+             Rapidash.
+
+Name:        Rhydon
+Type:        Stage 1 -- from Rhyhorn
+Card #:      card 45 of 64
+Rarity:      Uncommon
+Color:       Fighting
+HP:          100 HP
+Weakness:    G     
+Resistance:  L -30
+Retreat:     3
+Pokemon #:   112
+Species:     Drill
+Level:       48
+Attack:      [2F]  Horn Attack  (30)
+Attack:      [FFFF]  Ram  (50)
+             Rhydon does 20 damage to itself.  If your opponent has any
+             Benched Pokemon, he or she chooses 1 of them and switches
+             it with the Defending Pokemon. (Do the damage before
+             switching the Pokemon.  Switch the Pokemon even if Rhydon
+             is knocked out.)
+
+Name:        Seaking
+Type:        Stage 1 -- from Goldeen
+Card #:      card 46 of 64
+Rarity:      Uncommon
+Color:       Water
+HP:          70 HP
+Weakness:    L     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   119
+Species:     Goldfish
+Level:       28
+Attack:      [W]  Horn Attack  (10)
+Attack:      [1W]  Waterfall  (30)
+
+Name:        Tauros
+Type:        Basic Pokemon
+Card #:      card 47 of 64
+Rarity:      Uncommon
+Color:       Colorless
+HP:          60 HP
+Weakness:    F     
+Resistance:  P -30
+Retreat:     2
+Pokemon #:   128
+Species:     Wild Bull
+Level:       32
+Attack:      [2]  Stomp  (20+)
+             Flip a coin.  If heads, this attack does 20 damage plus 10
+             more damage; if tails, this attack does 20 damage.
+Attack:      [3]  Rampage  (20+)
+             Does 20 damage plus 10 more damage for each damage counter
+             on Tauros.  Flip a coin.  If tails, Tauros is now Confused
+            (after doing damage).
+
+Name:        Weepinbell
+Type:        Stage 1 -- from Bellsprout
+Card #:      card 48 of 64
+Rarity:      Uncommon
+Color:       Grass
+HP:          70 HP
+Weakness:    R    
+Resistance:  none 
+Retreat:     1
+Pokemon #:   30
+Species:     Flycatcher
+Level:       28
+Attack:      [G]  Poisonpowder  (10)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Poisoned.
+Attack:      [GG]  Razor Leaf  (30)
+
+Name:        Bellsprout
+Type:        Basic Pokemon
+Card #:      card 49 of 64
+Rarity:      Common
+Color:       Grass
+HP:          40 HP
+Weakness:    R     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   69
+Species:     Flower
+Level:       11
+Attack:      [G]  Vine Whip  (10)
+Attack:      [G]  Call for Family
+             Search your deck for a Basic Pokemon named Bellsprout and
+             put it onto your Bench.  Shuffle your deck afterward. (You
+             can't use this attack if your Bench is full.)
+
+Name:        Cubone
+Type:        Basic Pokemon
+Card #:      card 50 of 64
+Rarity:      Common
+Color:       Fighting
+HP:          40 HP
+Weakness:    G     
+Resistance:  L -30
+Retreat:     1
+Pokemon #:   104
+Species:     Lonely
+Level:       13
+Attack:      [1]  Snivel
+             If the Defending Pokemon attacks Cubone during your
+             opponent's next turn, any damage done by the attack is
+             reduced by 20 (after applying Weakness and Resistance).
+             (Benching either Pokemon ends this effect.)
+Attack:      [FF]  Rage  (10+)
+             Does 10 damage plus 10 more damage for each damage counter
+             on Cubone.
+
+Name:        Eevee
+Type:        Basic Pokemon
+Card #:      card 51 of 64
+Rarity:      Common
+Color:       Colorless
+HP:          50 HP
+Weakness:    F    
+Resistance:  P -30
+Retreat:     1
+Pokemon #:   133
+Species:     Evolution
+Level:       12
+Attack:      [1]  Tail Wag
+             Flip a coin.  If heads, the Defending Pokemon can't attack
+             Eevee during your opponent's next turn. (Benching either
+             Pokemon ends this effect.)
+Attack:      [2]  Quick Attack  (10+)
+             Flip a coin.  If heads, this attack does 10 damage plus 20
+             more damage; if tails, this attack does 10 damage.
+
+Name:        Exeggcute
+Type:        Basic Pokemon
+Card #:      card 52 of 64
+Rarity:      Common
+Color:       Grass
+HP:          50 HP
+Weakness:    R     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   102
+Species:     Egg
+Level:       14
+Attack:      [P]  Hypnosis
+             The Defending Pokemon is now Asleep.
+Attack:      [GG]  Leech Seed  (20)
+             Unless all damage from this attack is prevented, you may
+             remove 1 damage counter from Exeggcute.
+
+Name:        Goldeen
+Type:        Basic Pokemon
+Card #:      card 53 of 64
+Rarity:      Common
+Color:       Water
+HP:          40 HP
+Weakness:    L     
+Resistance:  none 
+Retreat:     0
+Pokemon #:   118
+Species:     Goldfish
+Level:       12
+Attack:      [W]  Horn Attack  (10)
+
+Name:        Jigglypuff
+Type:        Basic Pokemon
+Card #:      card 54 of 64
+Rarity:      Common
+Color:       Colorless
+HP:          60 HP
+Weakness:    F     
+Resistance:  P -30 
+Retreat:     1
+Pokemon #:   39
+Species:     Balloon
+Level:       14
+Attack:      [1]  Lullaby
+             The Defending Pokemon is now Asleep.
+Attack:      [2]  Pound  (20)
+
+Name:        Mankey
+Type:        Basic Pokemon
+Card #:      card 55 of 64
+Rarity:      Common
+Color:       Fighting
+HP:          30 HP
+Weakness:    P     
+Resistance:  none 
+Retreat:     0
+Pokemon #:   56
+Species:     Pig Monkey
+Level:       7
+Power:       "Peek"
+             Once during your turn (before your attack), you may look
+             at one of the following: the top card of either player's
+             deck, a random card from your opponent's hand, or one of
+             either player's Prizes.  This power can't be used if
+             Mankey is Asleep, Confused, or Paralyzed.
+Attack:      [1]  Scratch  (10)
+
+Name:        Meowth
+Type:        Basic Pokemon
+Card #:      card 56 of 64
+Rarity:      Common
+Color:       Colorless
+HP:          50 HP
+Weakness:    F     
+Resistance:  P -30
+Retreat:     1
+Pokemon #:   52
+Species:     Scratch Cat
+Level:       15
+Attack:      [2]  Pay Day  (10)
+             Flip a coin.  If heads, draw a card.
+
+Name:        Nidoran (F)
+Type:        Basic Pokemon
+Card #:      card 57 of 64
+Rarity:      Common
+Color:       Grass
+HP:          60 HP
+Weakness:    P     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   29
+Species:     Poison Pin
+Level:       13
+Attack:      [G]  Fury Swipes  (10x)
+             Flip 3 coins.  This attack does 10 damage times the number
+             of heads.
+Attack:      [GG]  Call for Family
+             Search your deck for a Basic Pokemon named Nidoran (M) or
+             Nidoran (F) and put it onto your Bench.  Shuffle your deck
+             afterward. (You can't use this attack if your Bench is
+             full.)
+
+Name:        Oddish
+Type:        Basic Pokemon
+Card #:      card 58 of 64
+Rarity:      Common
+Color:       Grass
+HP:          50 HP
+Weakness:    R     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   43
+Species:     Weed
+Level:       8
+Attack:      [G]  Stun Spore  (10)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Paralyzed.
+Attack:      [GG]  Sprout
+             Search your deck for a Basic Pokemon named Oddish and
+             put it onto your Bench.  Shuffle your deck afterward. (You
+             can't use this attack if your Bench is full.)
+
+Name:        Paras
+Type:        Basic Pokemon
+Card #:      card 59 of 64
+Rarity:      Common
+Color:       Grass
+HP:          40 HP
+Weakness:    R     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   46
+Species:     Mushroom
+Level:       8
+Attack:      [2]  Scrach  (20)
+Attack:      [GG]  Spore
+             The Defending Pokemon is now Asleep.
+
+Name:        Pikachu
+Type:        Basic Pokemon
+Card #:      card 60 of 64
+Rarity:      Common
+Color:       Lightning
+HP:          50 HP
+Weakness:    F     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   25
+Species:     Mouse
+Level:       14
+Attack:      [LL]  Spark  (20)
+             If your opponent has any Benched Pokemon, choose 1 of them
+             and this attack does 10 damage to it. (Don't apply
+             Weakness and Resistance for Benched Pokemon.)
+
+Name:        Rhyhorn
+Type:        Basic Pokemon
+Card #:      card 61 of 64
+Rarity:      Common
+Color:       Fighting
+HP:          70 HP
+Weakness:    G     
+Resistance:  L -30 
+Retreat:     3
+Pokemon #:   111
+Species:     Spikes
+Level:       18
+Attack:      [1]  Leer
+             Flip a coin.  If heads, the Defending Pokemon can't attack
+             Rhyhorn during your opponent's next turn. (Benching either
+             Pokemon ends this effect.)
+Attack:      [2F]  Horn Attack  (30)
+
+Name:        Spearow
+Type:        Basic Pokemon
+Card #:      card 62 of 64
+Rarity:      Common
+Color:       Colorless
+HP:          50 HP
+Weakness:    L     
+Resistance:  F -30
+Retreat:     0
+Pokemon #:   21
+Species:     Tiny Bird
+Level:       13
+Attack:      [1]  Peck  (10)
+Attack:      [3]  Mirror Move
+             If Spearow was attacked last turn, do the final result of
+             that attack on Spearow to the Defending Pokemon.
+
+Name:        Venonat
+Type:        Basic Pokemon
+Card #:      card 63 of 64
+Rarity:      Common
+Color:       Grass
+HP:          40 HP
+Weakness:    R     
+Resistance:  none 
+Retreat:     1
+Pokemon #:   48
+Species:     Insect
+Level:       12
+Attack:      [G]  Stun Spore  (10)
+             Flip a coin.  If heads, the Defending Pokemon is now
+             Paralyzed.
+Attack:      [1G]  Leech Life  (10)
+             Remove a number of damage counters from Venonat equal to
+             the damage done to the Defending Pokemon (after applying
+             Weakness and Resistance).
+
+Name:         Poke Ball
+Type:         Trainer
+Card #:       card 64 of 64 
+Rarity:       Common
+Text:         Flip a coin.  If heads, you may search your deck for any
+              Basic Pokemon or Evolution card.  Show that card to your
+              opponent, then put it into your hand.  Shuffle your deck
+              afterward.
+
+
